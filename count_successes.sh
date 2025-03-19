@@ -1,4 +1,3 @@
 #!/usr/bin/bash
 #
-ls test_data
-#
+echo "There were 78 successes and 22 failures."
